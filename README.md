@@ -14,3 +14,11 @@ print ("Rohit Day 1")
 Print("Rohit" " " * 10)
 
 <img width="925" height="423" alt="image" src="https://github.com/user-attachments/assets/219d3aaa-520b-4515-b53d-2a6ea508090d" />
+
+
+# Printing in next line
+
+print("Rohit" "\n" * 10)
+
+<img width="925" height="471" alt="image" src="https://github.com/user-attachments/assets/aeeca62c-1b26-430b-9f2d-23490e88f149" />
+
