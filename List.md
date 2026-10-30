@@ -36,6 +36,10 @@ Example - <img width="1101" height="648" alt="image" src="https://github.com/use
  
     marks=[80,32,34,24,56,77]
     print(marks[1:3])      32 34 24 
+
+
+    <img width="1244" height="636" alt="image" src="https://github.com/user-attachments/assets/ed69f8d5-74ab-44ef-a30d-494cdd19aab0" />
+
     
     
 
