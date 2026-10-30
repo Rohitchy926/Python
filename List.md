@@ -27,3 +27,7 @@ O/P= Apple
 
     print(fruits[-1])  # Orange
     print(fruits[-2])  # Mango
+
+
+    <img width="1067" height="678" alt="image" src="https://github.com/user-attachments/assets/977878ec-adc7-48a8-93b0-f349187e22fb" />
+
