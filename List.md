@@ -60,3 +60,10 @@ enumerate(numbers)  # Gives index and value
 ```
 
 <img width="1280" height="464" alt="image" src="https://github.com/user-attachments/assets/5b538f75-1de0-4325-8286-cb5cc2c670c4" />
+
+
+
+## Task 1: write a program to take 3 fruits as input from a user and print their length and store them in a list
+
+<img width="1200" height="489" alt="image" src="https://github.com/user-attachments/assets/d10d42d4-4436-4250-985a-a0d7f2e08f21" />
+
