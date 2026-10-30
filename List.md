@@ -29,5 +29,16 @@ Example - <img width="1101" height="648" alt="image" src="https://github.com/use
 
 
 
+##  List slicing
+
+ You can extract the part of list by slicing
+
+ '''marks=[80,32,34,24,56,77]
+    print(marks[1:3])
+
+
+
+
+
 
 
