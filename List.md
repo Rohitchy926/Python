@@ -8,3 +8,19 @@ fruits = ["Apple", "Banana", "Mango", "Orange"]
 print(fruits)
 
 O/P-  ['Apple', 'Banana', 'Mango', 'Orange']
+
+
+2. fruits = ["Apple", "Banana", "Mango", "Orange"]
+
+print(fruits[0])
+print(fruits[1])
+print(fruits[2])
+
+O/P= Apple
+     Banana
+     Mango
+     
+''Negative indexing starts from the end.''
+
+    print(fruits[-1])  # Orange
+    print(fruits[-2])  # Mango
