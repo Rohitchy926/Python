@@ -17,3 +17,6 @@ Example - <img width="1101" height="648" alt="image" src="https://github.com/use
 You can extract a part of a list by slicing.
 
 <img width="1244" height="636" alt="image" src="https://github.com/user-attachments/assets/0667cc6d-c14e-49fa-9f87-ee49bb45f7e7" />
+
+<img width="1280" height="464" alt="image" src="https://github.com/user-attachments/assets/5b538f75-1de0-4325-8286-cb5cc2c670c4" />
+
