@@ -11,7 +11,7 @@ print(fruits)
 O/P-  ['Apple', 'Banana', 'Mango', 'Orange'] ''
 
 
-2. ''  ''  
+2. 
 
     fruits = ["Apple", "Banana", "Mango", "Orange"]
 
@@ -25,5 +25,4 @@ O/P= Apple
      
 
 
-    <img width="1067" height="678" alt="image" src="https://github.com/user-attachments/assets/977878ec-adc7-48a8-93b0-f349187e22fb" />
 
