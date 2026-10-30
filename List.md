@@ -12,6 +12,28 @@ You can access list items using their index number. Indexing starts from 0.
 
 Example - <img width="1101" height="648" alt="image" src="https://github.com/user-attachments/assets/14eb1b52-4cc4-4e03-8174-28434194206b" />
 
+## Changing the value in a list
+
+You can change the value of an item in a list by using its index number.
+
+```python
+fruits = ["apple", "banana", "cherry"]
+fruits[1] = "blueberry"
+
+print(fruits)
+# Output: ['apple', 'blueberry', 'cherry']
+```
+
+You can also change multiple items at once by using slicing.
+
+```python
+numbers = [10, 20, 30, 40]
+numbers[1:3] = [99, 88]
+
+print(numbers)
+# Output: [10, 99, 88, 40]
+```
+
 ## List slicing
 
 You can extract a part of a list by slicing.
