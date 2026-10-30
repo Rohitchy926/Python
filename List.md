@@ -35,7 +35,8 @@ Example - <img width="1101" height="648" alt="image" src="https://github.com/use
 
  
     marks=[80,32,34,24,56,77]
-    print(marks[1:3])
+    print(marks[1:3])      32 34 24 
+    
     
 
 
