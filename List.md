@@ -23,7 +23,7 @@ O/P= Apple
      Banana
      Mango 
      
-''Negative indexing starts from the end.''
+''Negative indexing starts from the end.
 
     print(fruits[-1])  # Orange
     print(fruits[-2])  # Mango
