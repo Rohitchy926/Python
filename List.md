@@ -21,17 +21,17 @@ You can extract a part of a list by slicing.
 ## Function in list.
 
 '''Built-in Python Functions Used with Lists
-These are not list methods, but they are commonly used with lists.
-Function	Purpose	Example
-len()	Total elements	len(numbers)
-max()	Largest element	max(numbers)
-min()	Smallest element	min(numbers)
-sum()	Sum of elements	sum(numbers)
-sorted()	Returns sorted list	sorted(numbers)
-list()	Converts iterable to list	list("Python")
-any()	True if any element is true	any(numbers)
-all()	True if all elements are true	all(numbers)
-enumerate()	Gives index and value	enumerate(numbers)'''
+   These are not list methods, but they are commonly used with lists.
+   Function	Purpose	Example
+    len()	Total elements	len(numbers)
+    max()	Largest element	max(numbers)
+    min()	Smallest element	min(numbers)
+    sum()	Sum of elements	sum(numbers)
+    sorted()	Returns sorted list	sorted(numbers)
+    list()	Converts iterable to list	list("Python")
+    any()	True if any element is true	any(numbers)
+    all()	True if all elements are true	all(numbers)
+    enumerate()	Gives index and value	enumerate(numbers)'''
 
 <img width="1280" height="464" alt="image" src="https://github.com/user-attachments/assets/5b538f75-1de0-4325-8286-cb5cc2c670c4" />
 
