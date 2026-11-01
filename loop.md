@@ -91,6 +91,12 @@ There are three ways to use it:
 <img width="1065" height="595" alt="image" src="https://github.com/user-attachments/assets/26ef32df-c660-4d6f-96c1-4988a05aebd3" />
 
 
+**TASK-Print a countdon before something start - wahoo! HAPPY NEW NEW**
+
+<img width="1104" height="623" alt="image" src="https://github.com/user-attachments/assets/fd776c5a-33ca-4596-a098-d7f6c891efb3" />
+
+
+
 
 
 
